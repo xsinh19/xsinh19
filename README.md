@@ -3,19 +3,19 @@
   Anything marked TODO needs a real link or a check from you.
   ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=190&section=header&text=Shivrajsinh%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C3%97%20Systems%20%C3%97%20Robotics%20%C2%B7%20IIT%20Gandhinagar&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=190&section=header&text=Shivrajsinh%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C3%97%20Systems%20%C3%97%20Algorithms%20%C2%B7%20IIT%20Gandhinagar&descAlignY=58&descSize=16" />
 
 <p align="center">
   <a href="https://github.com/xsinh19">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=5BC0BE&center=true&vCenter=true&width=640&lines=I+build+things+that+ship%2C+then+measure+them.;Full-stack+%C2%B7+RAG+systems+%C2%B7+Retrieval+%26+ranking;Physics-informed+ML+%C2%B7+Reinforcement+learning;Heading+toward+robotics+%26+autonomous+systems." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=5BC0BE&center=true&vCenter=true&width=640&lines=I+build+things+that+ship%2C+then+measure+them.;Full-stack+%C2%B7+Agentic+systems+%C2%B7+Retrieval+%26+ranking;Physics-informed+ML+%C2%B7+Reinforcement+learning;Heading+toward+physical+and+%26+autonomous+systems." alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TODO@iitgn.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="TODO-blog-link"><img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="TODO-resume-pdf-link"><img src="https://img.shields.io/badge/Resume-3A506B?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shivrajsinh-bhosale-a50174256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shivrajsinh.bhosale@iitgn.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="shivrajbhosale.com"><img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="shivrajbhosale.com"><img src="https://img.shields.io/badge/Resume-3A506B?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=xsinh19&style=for-the-badge&color=5BC0BE&label=VISITORS" />
 </p>
 
@@ -28,15 +28,15 @@ class Shiv:
     school     = "IIT Gandhinagar — B.Tech '22"
     major      = "Artificial Intelligence"
     dual_major = "Chemical Engineering"
-    heading_to = "MS in Robotics & autonomous systems"
+    heading_to = "Software Development and AI"
 
     builds     = ["full-stack AI products", "retrieval & RAG systems",
                   "physics-informed ML", "RL agents"]
     believes   = "first principles > frameworks; shipped > perfect"
-    off_screen = ["lawn tennis", "long-distance running"]
+    off_screen = ["Dancing", "long-distance running"]
 ```
 
-I sit at the overlap of **software engineering, ML, and physical systems**. A chemical-engineering dual major means I'm as comfortable with a differential equation or a process flowsheet as with a Postgres schema, and that's exactly the mix robotics needs.
+I sit at the overlap of **software engineering, ML, and physical systems**. A chemical-engineering dual major means I'm as comfortable with a differential equation or a process flowsheet as with a Postgres schema, and that's exactly the mix complex problem needs.
 
 ### 🔭 Right now
 
@@ -52,10 +52,10 @@ I sit at the overlap of **software engineering, ML, and physical systems**. A ch
 <tr>
 <td width="50%" valign="top">
 
-#### 🗣️ Kotoba
-An AI agent that handles inbound customer communication end to end, built on the T3 stack with type-safe APIs from database to UI.
+#### 🗣️ FedEx|Optimal Cargo Management for Flights
+Created a various Sequential Genetic Algorithms with a Deepest-Bottom-Left heuristic to optimize ULD packing.
 
-`Next.js` `TypeScript` `tRPC` `Prisma` `Tailwind`
+`Algorithms` `ML` `Optimization`
 
 [**Live demo**](TODO) · [**Code**](https://github.com/xsinh19/TODO)
 
@@ -150,15 +150,15 @@ Built an internal tool that generates synthetic, test-ready data for Salesforce 
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xsinh19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b132b&title_color=5BC0BE&icon_color=5BC0BE&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsinh19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b132b&title_color=5BC0BE&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xsinh19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b132b&title_color=5BC0BE&icon_colormits=true&count_private=true
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsinh19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b132b&title_color=5BC0BE&align="center">
+  <img src="https://streak-stats.demolab.com?user=xsinh19&theme=tokyonight&hide_border=true&background=0B132B&ring=5BC0BE&fire=rStreakLabel=5BC0BE
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xsinh19&theme=tokyonight&hide_border=true&background=0B132B&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xsinh19&bg_color=0b132b&color=5bc0be&linerea=true&hide_border=true
 </p>
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xsinh19&bg_color=0b132b&color=5bc0be&line=3a506b&point=ffffff&area=true&hide_border=true" />
-</p>
+``
 
 ---
 
